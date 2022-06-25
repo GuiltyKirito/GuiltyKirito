@@ -1,4 +1,4 @@
-### Hi there 👋
+### 诶嘿~ 👋
 
 <!--
 **GuiltyKirito/GuiltyKirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GuiltyKirito's github stats](https://github-readme-stats.vercel.app/api?username=GuiltyKirito&show_icons=true)
+
+![img](https://genshin-card.getloli.com/16/7503524.png)
